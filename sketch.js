@@ -1,15 +1,3 @@
-/*
-Stary Stary Sky is a simple drawing tool that allows the user to draw constellations 
-or just random drawings on a night sky. They can place the star dusts and regular
-stars by clicking or dragging the mouse on the sky. The user can also choose to
-display a full moon, a half-moon, or no moon. Sometimes there are clouds in the sky 
-that would block the lights from coming to the user, preventing them from seeing
-the stars and the moon. But that is ok, for the clouds are temporary but the stars
-are everlasting. When the sun rises and another night come, those clouds will be 
-gone and the stars will shine once more.
-
-Inspiration: I just wanted to do something related to stars :)
-*/
 var star_on = false;
 var dust_on = false;
 var halfmoon_on = false;
